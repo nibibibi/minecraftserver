@@ -1,0 +1,16 @@
+{
+	id: "8404654b-62f7-3142-b440-0db93f529a3e"
+	type: "player"
+	player_name: "Vritra_s"
+	ranks: {
+		8404654b-62f7-3142-b440-0db93f529a3e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Vritra_s"
+		"ftbteams:color": "#FF59AE"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

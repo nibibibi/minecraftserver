@@ -1,0 +1,16 @@
+{
+	id: "bee22034-0247-3dd2-93de-d689d94ee217"
+	type: "player"
+	player_name: "nibibibi"
+	ranks: {
+		bee22034-0247-3dd2-93de-d689d94ee217: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "nibibibi"
+		"ftbteams:color": "#59FF80"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

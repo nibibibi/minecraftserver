@@ -1,0 +1,16 @@
+{
+	id: "628e8c24-34a6-33ef-8e81-305e677ee81a"
+	type: "player"
+	player_name: "MustDy"
+	ranks: {
+		628e8c24-34a6-33ef-8e81-305e677ee81a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MustDy"
+		"ftbteams:color": "#59FF6E"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

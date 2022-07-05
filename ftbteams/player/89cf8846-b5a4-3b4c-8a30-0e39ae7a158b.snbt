@@ -1,0 +1,16 @@
+{
+	id: "89cf8846-b5a4-3b4c-8a30-0e39ae7a158b"
+	type: "player"
+	player_name: "AnyDark"
+	ranks: {
+		89cf8846-b5a4-3b4c-8a30-0e39ae7a158b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "AnyDark"
+		"ftbteams:color": "#5972FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

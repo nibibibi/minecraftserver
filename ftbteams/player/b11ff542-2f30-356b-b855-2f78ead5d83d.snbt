@@ -1,0 +1,16 @@
+{
+	id: "b11ff542-2f30-356b-b855-2f78ead5d83d"
+	type: "player"
+	player_name: "Malinero"
+	ranks: {
+		b11ff542-2f30-356b-b855-2f78ead5d83d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Malinero"
+		"ftbteams:color": "#FF9C59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

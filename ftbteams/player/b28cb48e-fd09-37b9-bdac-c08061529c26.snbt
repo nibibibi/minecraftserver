@@ -1,0 +1,16 @@
+{
+	id: "b28cb48e-fd09-37b9-bdac-c08061529c26"
+	type: "player"
+	player_name: "DraMus"
+	ranks: {
+		b28cb48e-fd09-37b9-bdac-c08061529c26: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DraMus"
+		"ftbteams:color": "#59FFE7"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,16 @@
+{
+	id: "fe602ec8-98aa-3330-bdaf-fed10476c929"
+	type: "player"
+	player_name: "molik777"
+	ranks: {
+		fe602ec8-98aa-3330-bdaf-fed10476c929: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "molik777"
+		"ftbteams:color": "#A759FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

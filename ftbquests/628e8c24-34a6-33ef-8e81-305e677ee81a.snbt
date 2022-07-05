@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "628e8c2434a633ef8e81305e677ee81a"
+	name: "MustDy"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

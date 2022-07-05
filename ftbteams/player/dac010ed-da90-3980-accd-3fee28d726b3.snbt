@@ -1,0 +1,16 @@
+{
+	id: "dac010ed-da90-3980-accd-3fee28d726b3"
+	type: "player"
+	player_name: "lostinsekkonds"
+	ranks: {
+		dac010ed-da90-3980-accd-3fee28d726b3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "lostinsekkonds"
+		"ftbteams:color": "#9CFF59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,16 @@
+{
+	id: "d5769c7d-6771-316e-a550-8d7cc0a38ffc"
+	type: "player"
+	player_name: "wirior31"
+	ranks: {
+		d5769c7d-6771-316e-a550-8d7cc0a38ffc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "wirior31"
+		"ftbteams:color": "#59FFEE"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}
